@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.67b81d1b.css",
+    "main.js": "./static/js/main.62dca20f.js",
+    "static/js/787.23df5ae8.chunk.js": "./static/js/787.23df5ae8.chunk.js",
+    "static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 2.png": "./static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 2.dba15d47494ec733a648.png",
+    "static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 3.png": "./static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 3.0611260345f54825a2ec.png",
+    "static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 0.png": "./static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 0.9682410c79e23c00bd43.png",
+    "static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 1.png": "./static/media/230717_hp_mh_fw23_superstar_xlg_d_a504cb8b69 1.254bad7ac40dd6dc3533.png",
+    "index.html": "./index.html",
+    "main.67b81d1b.css.map": "./static/css/main.67b81d1b.css.map",
+    "main.62dca20f.js.map": "./static/js/main.62dca20f.js.map",
+    "787.23df5ae8.chunk.js.map": "./static/js/787.23df5ae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b81d1b.css",
+    "static/js/main.62dca20f.js"
+  ]
+}
